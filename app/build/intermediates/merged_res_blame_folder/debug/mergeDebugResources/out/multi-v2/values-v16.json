@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.shilpakala.artisan.app-mergeDebugResources-20:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Veerana Gowda\\.gradle\\caches\\9.1.0\\transforms\\9770b8c39a0804f0fedb8394bde98dac\\workspace\\transformed\\core-1.9.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

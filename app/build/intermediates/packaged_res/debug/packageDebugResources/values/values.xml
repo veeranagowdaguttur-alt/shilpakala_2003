@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="craft_gold">#D7A642</color>
+    <color name="heritage_brown">#7A3E16</color>
+    <color name="leaf_green">#2F6B4F</color>
+    <color name="paper">#FFF8ED</color>
+    <string name="app_name">Shilpa-Kala</string>
+    <string name="gcm_defaultSenderId" translatable="false">583034687281</string>
+    <string name="google_api_key" translatable="false">AIzaSyBspb-3Plydsj-A_RYs6Pa4I3Rd03U-Kx0</string>
+    <string name="google_app_id" translatable="false">1:583034687281:android:9ad06b8d267c0676f1aa10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBspb-3Plydsj-A_RYs6Pa4I3Rd03U-Kx0</string>
+    <string name="google_storage_bucket" translatable="false">shilpakala-4d466.firebasestorage.app</string>
+    <string name="project_id" translatable="false">shilpakala-4d466</string>
+    <style name="Theme.ShilpaKala" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:statusBarColor">@color/heritage_brown</item>
+        <item name="android:navigationBarColor">@color/heritage_brown</item>
+        <item name="android:colorAccent">@color/craft_gold</item>
+    </style>
+</resources>

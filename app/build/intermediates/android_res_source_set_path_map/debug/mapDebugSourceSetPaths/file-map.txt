@@ -1,0 +1,26 @@
+com.shilpakala.artisan.app-credentials-1.2.0-rc01-0 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\00ed123236f44121e3fc9e4f67a3a8b5\workspace\transformed\credentials-1.2.0-rc01\res
+com.shilpakala.artisan.app-lifecycle-runtime-2.3.1-1 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\06adcda2e7fecc3aa0b7ac6b10945088\workspace\transformed\lifecycle-runtime-2.3.1\res
+com.shilpakala.artisan.app-credentials-play-services-auth-1.2.0-rc01-2 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\3111b51d1261a1df0d5b97eee925e303\workspace\transformed\credentials-play-services-auth-1.2.0-rc01\res
+com.shilpakala.artisan.app-firebase-common-22.0.1-3 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\32419666d96925b04d8ed40d7f0df448\workspace\transformed\firebase-common-22.0.1\res
+com.shilpakala.artisan.app-play-services-basement-18.9.0-4 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\3fca125f48ecef2a12cbddfa9d894ea5\workspace\transformed\play-services-basement-18.9.0\res
+com.shilpakala.artisan.app-datastore-release-5 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\4e7e205f79e822608c0ca4dc08328287\workspace\transformed\datastore-release\res
+com.shilpakala.artisan.app-core-ktx-1.9.0-6 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\50070d14bb5c104ca9d1ed4562324a45\workspace\transformed\core-ktx-1.9.0\res
+com.shilpakala.artisan.app-play-services-auth-20.7.0-7 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\64954b43c746514e3454feb1bc2b68cc\workspace\transformed\play-services-auth-20.7.0\res
+com.shilpakala.artisan.app-core-1.9.0-8 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\9770b8c39a0804f0fedb8394bde98dac\workspace\transformed\core-1.9.0\res
+com.shilpakala.artisan.app-play-services-base-18.9.0-9 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\a8782655591f2046f7e5cb90ec934739\workspace\transformed\play-services-base-18.9.0\res
+com.shilpakala.artisan.app-ads-adservices-1.1.0-beta11-10 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\b529736bfdb0dfce1e727a73e0748c46\workspace\transformed\ads-adservices-1.1.0-beta11\res
+com.shilpakala.artisan.app-datastore-preferences-release-11 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\b5cc7d0ec9effc9c95c5619e3805ca35\workspace\transformed\datastore-preferences-release\res
+com.shilpakala.artisan.app-datastore-core-release-12 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\baf3a7f5a59d634e9b47570d7f7163f6\workspace\transformed\datastore-core-release\res
+com.shilpakala.artisan.app-core-common-2.0.3-13 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\bd2cb8caebe0e89fb12e769450d85cf1\workspace\transformed\core-common-2.0.3\res
+com.shilpakala.artisan.app-browser-1.4.0-14 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\d2b859f7d1e84b3d6084b9c20dd93aee\workspace\transformed\browser-1.4.0\res
+com.shilpakala.artisan.app-datastore-preferences-core-release-15 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\eef1fd0d28435aece94b2617f3651060\workspace\transformed\datastore-preferences-core-release\res
+com.shilpakala.artisan.app-annotation-experimental-1.3.0-16 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\f397b3b0a1043d40ef02e19c3ae51cdf\workspace\transformed\annotation-experimental-1.3.0\res
+com.shilpakala.artisan.app-ads-adservices-java-1.1.0-beta11-17 C:\Users\Veerana Gowda\.gradle\caches\9.1.0\transforms\fb624b0089e5b364a938698a10080293\workspace\transformed\ads-adservices-java-1.1.0-beta11\res
+com.shilpakala.artisan.app-pngs-18 D:\ShilpaKalaAndroidApp\app\build\generated\res\pngs\debug
+com.shilpakala.artisan.app-res-19 D:\ShilpaKalaAndroidApp\app\build\generated\res\processDebugGoogleServices
+com.shilpakala.artisan.app-updated_navigation_xml-20 D:\ShilpaKalaAndroidApp\app\build\generated\updated_navigation_xml\debug
+com.shilpakala.artisan.app-packageDebugResources-21 D:\ShilpaKalaAndroidApp\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.shilpakala.artisan.app-packageDebugResources-22 D:\ShilpaKalaAndroidApp\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.shilpakala.artisan.app-debug-23 D:\ShilpaKalaAndroidApp\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.shilpakala.artisan.app-debug-24 D:\ShilpaKalaAndroidApp\app\src\debug\res
+com.shilpakala.artisan.app-main-25 D:\ShilpaKalaAndroidApp\app\src\main\res
